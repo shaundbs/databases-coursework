@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T18:01:31.848Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="DqaL-KI7-9ToDuIWT2Ng" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-20T18:12:39.688Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="-3rotOTcVHsrgBhxrgtU" version="13.8.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="864" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -340,8 +340,14 @@
         <mxCell id="wx3--FIx8wRdteSqaftg-57" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="wx3--FIx8wRdteSqaftg-56">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wx3--FIx8wRdteSqaftg-58" value="Row 3" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="wx3--FIx8wRdteSqaftg-56">
+        <mxCell id="wx3--FIx8wRdteSqaftg-58" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="wx3--FIx8wRdteSqaftg-56">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wx3--FIx8wRdteSqaftg-59" value="Added a few bits, will have another look later tonight after the football. Bit confused about &#39;recommendations&#39; still. I also think the &#39;auctions&#39; entity is a bit redundant, I reckon we lump it into &#39;items&#39;.&amp;nbsp;&lt;br&gt;&lt;br&gt;Or, we have the &#39;auction&#39; coming off the &#39;items&#39; bit, such that each item when it is listed by a seller generates an auction? Let me know what you think\&lt;br&gt;&lt;br&gt;&amp;lt;--------- cont" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="10" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="wx3--FIx8wRdteSqaftg-60" value="Ive also made category its own derived entity as reckon it needs it. Will be helpful for reccos. I reckon we do the arrows together on zoom&lt;br&gt;&lt;br&gt;-Will" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="15" width="180" height="175" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
