@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T17:39:04.993Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="P6nvxFBk6utLFKYehm70" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-20T17:44:11.061Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="LhBYkXmjJwkeA5ek3pJM" version="13.8.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="864" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -170,26 +170,26 @@
           <mxGeometry x="30" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lxqCX38mrg4tKDXiwQsC-16" value="Watchlist" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="570" width="170" height="110" as="geometry">
+          <mxGeometry x="600" y="570" width="170" height="130" as="geometry">
             <mxRectangle x="340" y="20" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lxqCX38mrg4tKDXiwQsC-17" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="lxqCX38mrg4tKDXiwQsC-16" vertex="1">
-          <mxGeometry y="30" width="170" height="30" as="geometry" />
+          <mxGeometry y="30" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lxqCX38mrg4tKDXiwQsC-18" value="PK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" parent="lxqCX38mrg4tKDXiwQsC-17" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry" />
+        <mxCell id="lxqCX38mrg4tKDXiwQsC-18" value="PK&#xa;FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" parent="lxqCX38mrg4tKDXiwQsC-17" vertex="1">
+          <mxGeometry width="30" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lxqCX38mrg4tKDXiwQsC-19" value="buyer id" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" parent="lxqCX38mrg4tKDXiwQsC-17" vertex="1">
-          <mxGeometry x="30" width="140" height="30" as="geometry" />
+        <mxCell id="lxqCX38mrg4tKDXiwQsC-19" value="buyer id&#xa;Auction id" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" parent="lxqCX38mrg4tKDXiwQsC-17" vertex="1">
+          <mxGeometry x="30" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lxqCX38mrg4tKDXiwQsC-20" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="lxqCX38mrg4tKDXiwQsC-16" vertex="1">
-          <mxGeometry y="60" width="170" height="50" as="geometry" />
+          <mxGeometry y="80" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lxqCX38mrg4tKDXiwQsC-21" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="lxqCX38mrg4tKDXiwQsC-20" vertex="1">
           <mxGeometry width="30" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lxqCX38mrg4tKDXiwQsC-22" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="lxqCX38mrg4tKDXiwQsC-20" vertex="1">
+        <mxCell id="lxqCX38mrg4tKDXiwQsC-22" value="Highest Bid" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="lxqCX38mrg4tKDXiwQsC-20" vertex="1">
           <mxGeometry x="30" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wx3--FIx8wRdteSqaftg-1" value="Makes" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
