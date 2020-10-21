@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T12:49:54.587Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="TkjtsnoS9WAfe08t-CPJ" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T12:51:32.968Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="ZOs8zwo2aVS402a3-Rhq" version="13.8.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1060" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -76,10 +76,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6a3gbyVTUJdRKcO8Yb8x-34" value="Creates" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="350" width="80" height="80" as="geometry" />
+          <mxGeometry x="660" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6a3gbyVTUJdRKcO8Yb8x-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6a3gbyVTUJdRKcO8Yb8x-25" target="6a3gbyVTUJdRKcO8Yb8x-34" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="245" />
+              <mxPoint x="800" y="390" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6a3gbyVTUJdRKcO8Yb8x-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.012;entryY=0.056;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6a3gbyVTUJdRKcO8Yb8x-44" target="6a3gbyVTUJdRKcO8Yb8x-36" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -180,7 +185,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wx3--FIx8wRdteSqaftg-41" value="Has" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="520" width="80" height="80" as="geometry" />
+          <mxGeometry x="680" y="540" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wx3--FIx8wRdteSqaftg-59" value="Added a few bits, will have another look later tonight after the football. Bit confused about &#39;recommendations&#39; still. I also think the &#39;auctions&#39; entity is a bit redundant, I reckon we lump it into &#39;items&#39;.&amp;nbsp;&lt;br&gt;&lt;br&gt;Or, we have the &#39;auction&#39; coming off the &#39;items&#39; bit, such that each item when it is listed by a seller generates an auction? Let me know what you think\&lt;br&gt;&lt;br&gt;&amp;lt;--------- cont" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="10" width="210" height="210" as="geometry" />
@@ -218,7 +223,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SeLM_r5bs1obFx1jlG_9-6" value="Adds" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="755" width="80" height="80" as="geometry" />
+          <mxGeometry x="260" y="755" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SeLM_r5bs1obFx1jlG_9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lxqCX38mrg4tKDXiwQsC-17" target="SeLM_r5bs1obFx1jlG_9-6">
           <mxGeometry relative="1" as="geometry" />
