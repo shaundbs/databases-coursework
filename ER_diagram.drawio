@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T12:51:32.968Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="ZOs8zwo2aVS402a3-Rhq" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T12:55:23.420Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="98_QrWyPjDS5ZtYfjVcQ" version="13.8.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1060" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -309,7 +309,7 @@
           <mxGeometry x="29.999999999999996" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SeLM_r5bs1obFx1jlG_9-14" value="Not sure about the dashed &lt;br&gt;arrow but the searches could &lt;br&gt;produce recommandations &lt;br&gt;as well ???&lt;br&gt;&lt;br&gt;Theo" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="125" y="920" width="180" height="110" as="geometry" />
+          <mxGeometry x="336.5" y="900" width="180" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
