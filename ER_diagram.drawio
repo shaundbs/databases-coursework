@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T17:18:37.824Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="PF071bmTMypZo9cyiYns" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T17:24:06.317Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="-m_6MTwlKlCvOYdo8a8w" version="13.8.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2264" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1414" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,15 +185,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wx3--FIx8wRdteSqaftg-41" value="Has" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="540" width="80" height="80" as="geometry" />
+          <mxGeometry x="730" y="425" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wx3--FIx8wRdteSqaftg-59" value="Added a few bits, will have another look later tonight after the football. Bit confused about &#39;recommendations&#39; still. I also think the &#39;auctions&#39; entity is a bit redundant, I reckon we lump it into &#39;items&#39;.&amp;nbsp;&lt;br&gt;&lt;br&gt;Or, we have the &#39;auction&#39; coming off the &#39;items&#39; bit, such that each item when it is listed by a seller generates an auction? Let me know what you think\&lt;br&gt;&lt;br&gt;&amp;lt;--------- cont" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="1090" width="210" height="210" as="geometry" />
+          <mxGeometry x="960" y="35.5" width="210" height="210" as="geometry" />
         </mxCell>
         <mxCell id="wx3--FIx8wRdteSqaftg-60" value="Ive also made category its own derived entity as reckon it needs it. Will be helpful for reccos. I reckon we do the arrows together on zoom&lt;br&gt;&lt;br&gt;-Will" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="235" y="1080" width="180" height="175" as="geometry" />
+          <mxGeometry x="975" y="285.5" width="180" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="SeLM_r5bs1obFx1jlG_9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6a3gbyVTUJdRKcO8Yb8x-40" target="wx3--FIx8wRdteSqaftg-41" edge="1">
+        <mxCell id="SeLM_r5bs1obFx1jlG_9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6a3gbyVTUJdRKcO8Yb8x-40" target="wx3--FIx8wRdteSqaftg-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lxqCX38mrg4tKDXiwQsC-1" value="Bids" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
@@ -255,9 +255,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SeLM_r5bs1obFx1jlG_9-10" value="Adds" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="585" width="80" height="80" as="geometry" />
+          <mxGeometry x="470" y="625" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SeLM_r5bs1obFx1jlG_9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lxqCX38mrg4tKDXiwQsC-2" target="SeLM_r5bs1obFx1jlG_9-10" edge="1">
+        <mxCell id="SeLM_r5bs1obFx1jlG_9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lxqCX38mrg4tKDXiwQsC-5" target="SeLM_r5bs1obFx1jlG_9-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SeLM_r5bs1obFx1jlG_9-13" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6a3gbyVTUJdRKcO8Yb8x-44" target="wx3--FIx8wRdteSqaftg-46" edge="1">
@@ -287,8 +287,48 @@
         <mxCell id="wx3--FIx8wRdteSqaftg-52" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="wx3--FIx8wRdteSqaftg-50" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SeLM_r5bs1obFx1jlG_9-14" value="Not sure about the dashed &lt;br&gt;arrow but the searches could &lt;br&gt;produce recommandations &lt;br&gt;as well ???&lt;br&gt;&lt;br&gt;Theo" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="975" y="505" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PlVSDmHrNCxfG3lxqQtc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlVSDmHrNCxfG3lxqQtc-1" target="C-vyLk0tnHw3VtMMgP7b-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="890" />
+              <mxPoint x="900" y="37" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlVSDmHrNCxfG3lxqQtc-1" value="Email Notification" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="850" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlVSDmHrNCxfG3lxqQtc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.498;exitY=1.035;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="lxqCX38mrg4tKDXiwQsC-20" target="PlVSDmHrNCxfG3lxqQtc-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlVSDmHrNCxfG3lxqQtc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wx3--FIx8wRdteSqaftg-50" target="PlVSDmHrNCxfG3lxqQtc-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="825" />
+              <mxPoint x="370" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlVSDmHrNCxfG3lxqQtc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lxqCX38mrg4tKDXiwQsC-1" target="PlVSDmHrNCxfG3lxqQtc-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="375" y="590" />
+              <mxPoint x="640" y="590" />
+              <mxPoint x="640" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wx3--FIx8wRdteSqaftg-28" value="Categories" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="720" width="180" height="120" as="geometry" />
+          <mxGeometry x="680" y="585" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wx3--FIx8wRdteSqaftg-29" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="wx3--FIx8wRdteSqaftg-28" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -307,39 +347,6 @@
         </mxCell>
         <mxCell id="wx3--FIx8wRdteSqaftg-37" value="name&#xa;description&#xa;no. of products in category" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="wx3--FIx8wRdteSqaftg-35" vertex="1">
           <mxGeometry x="29.999999999999996" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SeLM_r5bs1obFx1jlG_9-14" value="Not sure about the dashed &lt;br&gt;arrow but the searches could &lt;br&gt;produce recommandations &lt;br&gt;as well ???&lt;br&gt;&lt;br&gt;Theo" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="15" y="1140" width="180" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="PlVSDmHrNCxfG3lxqQtc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlVSDmHrNCxfG3lxqQtc-1" target="C-vyLk0tnHw3VtMMgP7b-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PlVSDmHrNCxfG3lxqQtc-1" value="Email Notification" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="900" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PlVSDmHrNCxfG3lxqQtc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.498;exitY=1.035;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="lxqCX38mrg4tKDXiwQsC-20" target="PlVSDmHrNCxfG3lxqQtc-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="100" y="960" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PlVSDmHrNCxfG3lxqQtc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wx3--FIx8wRdteSqaftg-50" target="PlVSDmHrNCxfG3lxqQtc-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="940" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="390" y="825" />
-              <mxPoint x="390" y="940" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PlVSDmHrNCxfG3lxqQtc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lxqCX38mrg4tKDXiwQsC-5" target="PlVSDmHrNCxfG3lxqQtc-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-40" y="665" />
-              <mxPoint x="-40" y="980" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
