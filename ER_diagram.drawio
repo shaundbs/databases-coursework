@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T11:08:32.845Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="oIro7BWNq5_31V6k9MhM" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-23T17:16:33.400Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="6_umNsYq4b9V9dQA6JqW" version="13.8.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1414" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1980" dy="1016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -294,7 +294,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ns8veMdd_7WvEedU-JZv-27" value="Buy Now&lt;br&gt;1 / 0..*" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ns8veMdd_7WvEedU-JZv-27" value="Buy Now&lt;br&gt;0..1 / 0..*" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="333" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ns8veMdd_7WvEedU-JZv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="C-vyLk0tnHw3VtMMgP7b-6" target="ns8veMdd_7WvEedU-JZv-27" edge="1">
