@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-24T12:07:35.936Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="zbN6c1Xbo6FHlHWAPO2X" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-24T12:08:47.931Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="V__PGFIDh2wOzrhDsbkf" version="13.8.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="921" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -457,6 +457,19 @@
         </mxCell>
         <mxCell id="9PuW5n_1KIUzoqQ99EkY-2" value="Selling&amp;nbsp;&lt;br&gt;Notification&lt;br&gt;0..* / 1 &amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="80" width="80" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="igYvDFoTxxhD537PgKR0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.56;exitY=1.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6a3gbyVTUJdRKcO8Yb8x-28" target="6a3gbyVTUJdRKcO8Yb8x-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="534" y="290" />
+              <mxPoint x="533" y="290" />
+              <mxPoint x="533" y="320" />
+              <mxPoint x="440" y="320" />
+              <mxPoint x="440" y="455" />
+            </Array>
+            <mxPoint x="440" y="290" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
