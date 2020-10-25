@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Generation Time: Oct 25, 2020 at 12:43 PM
+-- Generation Time: Oct 25, 2020 at 04:01 PM
 -- Server version: 5.7.31
 -- PHP Version: 7.3.21
 
@@ -20,19 +20,6 @@ SET time_zone = "+00:00";
 --
 -- Database: `auction`
 --
-
--- --------------------------------------------------------
-
---
--- Table structure for table `accounttype`
---
-
-DROP TABLE IF EXISTS `accounttype`;
-CREATE TABLE IF NOT EXISTS `accounttype` (
-  `user_id` int(10) UNSIGNED NOT NULL,
-  `type` enum('buyer','seller') NOT NULL,
-  KEY `user_id` (`user_id`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- --------------------------------------------------------
 
@@ -136,11 +123,12 @@ CREATE TABLE IF NOT EXISTS `users` (
   `user_id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT,
   `email` varchar(30) NOT NULL,
   `password` varchar(30) NOT NULL,
+  `accountType` enum('buyer','seller') NOT NULL,
   `signUpDate` datetime NOT NULL DEFAULT CURRENT_TIMESTAMP,
   `firstName` varchar(30) NOT NULL,
   `lastName` varchar(30) NOT NULL,
   PRIMARY KEY (`user_id`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=latin1;
 
 -- --------------------------------------------------------
 
