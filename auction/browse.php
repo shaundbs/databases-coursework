@@ -1,6 +1,8 @@
 <?php include_once("header.php")?>
 <?php require("utilities.php")?>
 
+<!--This is a comment. Comments are not displayed in the browser-->
+
 <div class="container">
 
 <h2 class="my-3">Browse listings</h2>
