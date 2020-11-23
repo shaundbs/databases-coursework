@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-23T14:18:59.835Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="tAUwjkRYdTjh4UiRRiGt" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-23T14:36:20.991Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="0foUiERdNeMzdcB9hS2d" version="13.10.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1055" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1055" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,18 +155,6 @@
         <mxCell id="ns8veMdd_7WvEedU-JZv-6" value="Bid&lt;br&gt;0..* / 0..*" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="610" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ns8veMdd_7WvEedU-JZv-27" value="Buy Now&lt;br&gt;0..1 / 0..*" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="410" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ns8veMdd_7WvEedU-JZv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="ns8veMdd_7WvEedU-JZv-27" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="160" y="260" />
-              <mxPoint x="160" y="450" />
-            </Array>
-            <mxPoint x="230" y="260" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wx3--FIx8wRdteSqaftg-46" value="Recommendations" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="720" width="180" height="90" as="geometry" />
         </mxCell>
@@ -242,13 +230,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="390" as="sourcePoint" />
             <mxPoint x="350" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P6kOcSW-mybjxz6MBlRz-8" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.007;entryY=0.37;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ns8veMdd_7WvEedU-JZv-27" target="6a3gbyVTUJdRKcO8Yb8x-40" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="266" y="464.5" as="sourcePoint" />
-            <mxPoint x="340" y="452" as="targetPoint" />
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P6kOcSW-mybjxz6MBlRz-9" value="" style="endArrow=classic;html=1;entryX=0.179;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wx3--FIx8wRdteSqaftg-1" target="6a3gbyVTUJdRKcO8Yb8x-40" edge="1">
